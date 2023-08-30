@@ -1,5 +1,5 @@
 # MagicBall
-IO&Swift
+IOS&Swift - 답을 주는 매직볼 
 
 # GIF
 ![Simulator Screen Recording - iPhone 14 Pro - 2023-08-30 at 22 53 51](https://github.com/PostDo/MagicBall/assets/143489897/4e7aa397-5a97-4155-b00b-53c974ed47d2)
